@@ -52,35 +52,35 @@ toc: true
     
 ## Academic Projects
 ### - Analysis of Power Distribution Networks in VLSI Circuits
-    - Active analog and digital techniques for modeling decap in PDN
+    Active analog and digital techniques for modeling decap in PDN
     
 ### - Analysis of the Robustness of a Power Distribution Networks
-    - Analysis of timing delay due to supply voltage variations.
+    Analysis of timing delay due to supply voltage variations.
     
 ### - Modeling of an active decap circuit for a Power Distribution Network
-    - A decap circuit is proposed and replaced by the active capacitor in the circuit to reduce the voltage
+    A decap circuit is proposed and replaced by the active capacitor in the circuit to reduce the voltage
     drop in a Power Distribution Network.
     
 ### - Frequency Domain analysis of on-chip Power distribution networks
-    - The variations in Power Supply leads to noise in a System-on-chip (SoC) which has adverse effects on 
+    The variations in Power Supply leads to noise in a System-on-chip (SoC) which has adverse effects on 
     its performance in terms of operational frequency, power dissipation and other soft errors. A PDN is 
     modeled and analog and digital IP blocks are considered in various topologies to create the potential
     effect of SSN.
     
 ### - Low-Noise Power Delivery Network Design using Power Transmission Line for mixed signal testing.
-    - In the mixed signal testing scenario, the performance of a system depends on the noise tolerance and
+    In the mixed signal testing scenario, the performance of a system depends on the noise tolerance and
     the communication speed between various analog and digital circuits which share a Power Delivery network(PDN). 
     Modeling of a PDN to reduce noise and simulations done on ADS Tool.
     
 ### - Low power Network-on-chip for high performance SoC design.
-    - A low power router technique is designed. The technique used is the CPAT(Crossbar Partial Activation Technique)
+    A low power router technique is designed. The technique used is the CPAT(Crossbar Partial Activation Technique)
     
 ### - Smart street lighting system based on Internet of Things.
-    - The project is demonstrated using LEDs , LDR’s , motion sensors, temperature sensors and and control function
+    The project is demonstrated using LEDs , LDR’s , motion sensors, temperature sensors and and control function
     is handled by the Intel Galileo Board.
 
 ## Paper presentations
-- Presented a paper entitled “Frequency domain analysis of on-chip power distribution network” at VDAT Symposium
+1. Presented a paper entitled “Frequency domain analysis of on-chip power distribution network” at VDAT Symposium
 2016 at IIT Guwahati
     
 ## Publications
@@ -91,10 +91,10 @@ distribution network. In 2016 20th International Symposium on VLSI Design and Te
 
 ## Trainings 
 ### - Trainee [AAI-Airport Authority of India, New Delhi, India](https://www.aai.aero/)
-      - Training at air traffic services under the communication and navigation surveillance.
+      Training at air traffic services under the communication and navigation surveillance.
       
 ### - Trainee [ITTM, New Delhi, India](http://mtnldelhi.in/ittm/)
-      - GSM(Base station subsystem and Network Switching Subsystem)
+      GSM(Base station subsystem and Network Switching Subsystem)
       
 ## Workshops & Seminars
  - Attended One-Day IEEE EPS Workshop on Power Integrity at Capitol Hotel, Bangalore, 25th July 2019
