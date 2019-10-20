@@ -12,20 +12,28 @@ toc: true
 
 ## Professional Experience
 ### - Analog Engineer [Intel Technology India Pvt Ltd, Banglore, India.](https://www.intel.com/) (Dec, 2018-Present)
-    - Worked on Hspice and S parameter based signal integrity simulations and analysis on PCIE Gen 4, LPDDR4 interfaces in Communication and Devices Group.
-    - Power Integrity Analysis for PDN optimization for meeting target impedance requirement and noise spec for high speed interfaces like LPDDR4X, GDDR6 for a graphics product.
-    - Co-Simulation for a complete system including PDN and signal path to extract system performance parameters such as eye jitter.
-    - Carried out successful analysis with the third party IP’s to enable SIPI solutions for an Intel product.
-    - Channel simulations with IBIS-AMI models and giving channel routing recommendations on the basis of topology, equalization techniques etc.
+    - Worked on Hspice and S parameter based signal integrity simulations and analysis on PCIE Gen 4, 
+    LPDDR4 interfaces in Communication and Devices Group.
+    - Power Integrity Analysis for PDN optimization for meeting target impedance requirement and noise
+    spec for high speed interfaces like LPDDR4X, GDDR6 for a graphics product.
+    - Co-Simulation for a complete system including PDN and signal path to extract system performance 
+    parameters such as eye jitter.
+    - Carried out successful analysis with the third party IP’s to enable SIPI solutions for an Intel 
+    product.
+    - Channel simulations with IBIS-AMI models and giving channel routing recommendations on the basis
+    of topology, equalization techniques etc.
 ### - Associate Engineer-2 [Microsemi India Pvt Ltd, Hyderabad, India.](https://www.microsemi.com/) (July, 2017-Dec, 2018)
-    - Worked on I/O selection, simulation and validation of high speed I/O, package and board characteristics in SPICE and IBIS environment.
-    - Simulation of a complete IO channel(Tx and Rx) to extract system performance parameters such as rise/fall times, rise/fall delays, jitter etc.
+    - Worked on I/O selection, simulation and validation of high speed I/O, package and board characteristics
+    in SPICE and IBIS environment.
+    - Simulation of a complete IO channel(Tx and Rx) to extract system performance parameters such as rise/fall
+    times, rise/fall delays, jitter etc.
     - Signal integrity analysis of MIPI and LVDS standard in spice environment
     - Worked on implementing special IO interfaces CAN,SPI,I2C,USB,MMUART,SD etc.
     - Worked on understanding and verification of DDRPHY and SGMIIPHY system blocks and clocking environment.
     - Timing and power Analysis of buffer paths on post layout extracted netlist for DDRPHY and SGMII IP blocks.
 ### - Intern [Microsemi India Pvt Ltd, Hyderabad, India.](https://www.microsemi.com/) (Jan, 2017- July, 2017)
-    - Worked in SoC group on custom I/O design and architecture, characterization of Input/Output Buffers and interfacing of high speed standards.
+    - Worked in SoC group on custom I/O design and architecture, characterization of Input/Output Buffers and 
+    interfacing of high speed standards.
     - Worked on validation of High speed and Complex IO’s: GPIO,HSIO,LVDS,MIPI.
 ### - Teaching Assistant [Indraprastha Institute of Information Technology, New Delhi, India](https://www.iiitd.ac.in/) (Aug, 2015- Dec,2017)
     - Maths(Linear algebra) (1st and 3rd semester).  
@@ -36,22 +44,32 @@ toc: true
 ### - Analysis of the Robustness of a Power Distribution Networks
     - Analysis of timing delay due to supply voltage variations.
 ### - Modeling of an active decap circuit for a Power Distribution Network
-    - A decap circuit is proposed and replaced by the active capacitor in the circuit to reduce the voltage drop in a Power Distribution Network.
+    - A decap circuit is proposed and replaced by the active capacitor in the circuit to reduce the voltage
+    drop in a Power Distribution Network.
 ### - Frequency Domain analysis of on-chip Power distribution networks
-    - The variations in Power Supply leads to noise in a System-on-chip (SoC) which has adverse effects on its performance in terms of operational frequency, power dissipation and other soft errors. A PDN is modeled and analog and digital IP blocks are considered in various topologies to create the potential effect of SSN.
+    - The variations in Power Supply leads to noise in a System-on-chip (SoC) which has adverse effects on 
+    its performance in terms of operational frequency, power dissipation and other soft errors. A PDN is 
+    modeled and analog and digital IP blocks are considered in various topologies to create the potential
+    effect of SSN.
 ### - Low-Noise Power Delivery Network Design using Power Transmission Line for mixed signal testing.
-    - In the mixed signal testing scenario, the performance of a system depends on the noise tolerance and the communication speed between various analog and digital circuits which share a Power Delivery network(PDN). Modeling of a PDN to reduce noise and simulations done on ADS Tool.
+    - In the mixed signal testing scenario, the performance of a system depends on the noise tolerance and
+    the communication speed between various analog and digital circuits which share a Power Delivery network(PDN). 
+    Modeling of a PDN to reduce noise and simulations done on ADS Tool.
 ### - Low power Network-on-chip for high performance SoC design.
     - A low power router technique is designed. The technique used is the CPAT(Crossbar Partial Activation Technique)
 ### - Smart street lighting system based on Internet of Things.
-    - The project is demonstrated using LEDs , LDR’s , motion sensors, temperature sensors and and control function is handled by the Intel Galileo Board.
+    - The project is demonstrated using LEDs , LDR’s , motion sensors, temperature sensors and and control function
+    is handled by the Intel Galileo Board.
 
 ## Paper presentations
-- Presented a paper entitled “Frequency domain analysis of on-chip power distribution network” at VDAT Symposium 2016 at IIT Guwahati
+- Presented a paper entitled “Frequency domain analysis of on-chip power distribution network” at VDAT Symposium
+2016 at IIT Guwahati
     
 ## Publications
-- Contemporary Solutions to Refine Validation Environments for Improved Correlation with Product Ecosystems, Design Con 2020. (Under Process)
-- Batra, S., Singh, P., Kaushik, S. and Hashmi, M.S., 2016, May. Frequency domain analysis of on-chip power distribution network. In 2016 20th International Symposium on VLSI Design and Test (VDAT) (pp. 1-6). IEEE.
+- Contemporary Solutions to Refine Validation Environments for Improved Correlation with Product Ecosystems, 
+Design Con 2020. (Under Process)
+- Batra, S., Singh, P., Kaushik, S. and Hashmi, M.S., 2016, May. Frequency domain analysis of on-chip power 
+distribution network. In 2016 20th International Symposium on VLSI Design and Test (VDAT) (pp. 1-6). IEEE.
 
 ## Trainings 
 ### - Trainee [AAI-Airport Authority of India, New Delhi, India](https://www.aai.aero/)
@@ -63,16 +81,20 @@ toc: true
  - Attended MATLAB-Simulink Training at MathWorks, Bangalore, India on 3 & 4 Jan 2019.
 
 ## AWARDS & ACHIEVEMENTS 
-- Received Recognition from IP stakeholder for excellent collaborative work for Signal integrity validation at Intel, July,2019
-- Received Division recognition award for enabling first platform design methodology to meet customer’s board integration requirements at Intel, June, 2019
+- Received Recognition from IP stakeholder for excellent collaborative work for Signal integrity validation at 
+Intel, July,2019
+- Received Division recognition award for enabling first platform design methodology to meet customer’s board 
+integration requirements at Intel, June, 2019
 - Received the Recognition Award for contribution in the 1st quarter FY 2018 at Microsemi, March 2018
 - Received a certificate of participation in Texas Instruments Analog Design Con- test held at IIIT Delhi, Oct 2015.
 
 ## EXTRACURRICULAR
-- Served as a member of Corporate Social Responsibility committee at Microsemi for the Career Sathi program for education and moral upliftment in economically backward and orphan children, Dec 2017-Nov 2018
+- Served as a member of Corporate Social Responsibility committee at Microsemi for the Career Sathi program for 
+education and moral upliftment in economically backward and orphan children, Dec 2017-Nov 2018
 - Worked as an associate member of creative team at TAARANGANA14, the first ever annual cultural festival of IGDTUW, Jan 2014 
 - Participated in the 21st IEEE Delhi Section Quarterly Meet held at PEC University of Technology, Chandigarh, June, 2013
-- Worked as an associate member of creative team and head coordinator of ELECTROTRADE event in IMPULSE13, the annual technical festival of IGIT, Jan 2013
+- Worked as an associate member of creative team and head coordinator of ELECTROTRADE event in IMPULSE13, the 
+annual technical festival of IGIT, Jan 2013
 - Participated in the IEEE Delhi Section Student Congress 2013 organized by IEEEJMI at Jamia Milia Islamia. 
 - Worked as an associate member of offline team in ETERNITY12, IEEE women in engineering chapter, Jan 2012
 ## CV
