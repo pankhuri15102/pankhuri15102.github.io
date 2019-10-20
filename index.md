@@ -9,6 +9,10 @@ I am a PhD candidate in the [Department of Computational and Data Sciences (CDS)
 
 Prior to graduate school, I received my Bachelor of Engineering (BE Hons.) in Computer Science from [Birla Institute of Technology and Science, Pilani (BITS Pilani)](http://www.bits-pilani.ac.in/) in 2015.
 
+
+## Education
+- Bachelors of Technology - [Indira Gandhi Delhi Technical University for Women, New Delhi, India](https://www.igdtuw.ac.in//) (2011-2015)
+- Masters of Technology - [Indraprastha Institute of Information Technology, New Delhi, India](https://www.iiitd.ac.in/) (2015-2017)
 ## Research
 
 I am broadly interested in Machine Learning with a particular focus on Natural Language and Knowledge Graphs. Previously, during my undergraduate studies, I have worked on swarm robotics and computer vision.
