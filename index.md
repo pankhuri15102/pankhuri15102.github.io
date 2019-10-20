@@ -54,19 +54,29 @@ toc: true
 ## Academic Projects
 1. ### Mtech Thesis: Analysis of Power Distribution Networks in VLSI Circuits
    Advisor: Dr. Mohammad S. Hashmi
+   <br>
    Active analog and digital techniques for modeling decap in PDN
     
-2. ### Analysis of the Robustness of a Power Distribution Networks
+2. ### Analysis of the Robustness of a Power Distribution Networks. (Independent Project)
    Advisor : Dr. Sneh Saurabh
+   <br>
+   Team Size : 1
+   <br>
    Analysis of timing delay due to supply voltage variations.
     
-3. ### Modeling of an active decap circuit for a Power Distribution Network
+3. ### Modeling of an active decap circuit for a Power Distribution Network. (Independent Project)
    Advisor : Dr. Mohammad S.Hashmi
+   <br>
+   Team Size : 1
+   <br>
    A decap circuit is proposed and replaced by the active capacitor in the circuit to reduce the voltage
     drop in a Power Distribution Network.
     
-4. ### Frequency Domain analysis of on-chip Power distribution networks.
+4. ### Frequency Domain analysis of on-chip Power distribution networks. (Course Project)
    Advisor : Dr. Mohammad S.Hashmi
+   <br>
+   Team Size : 2
+   <br>
    The variations in Power Supply leads to noise in a System-on-chip (SoC) which has adverse effects on 
     its performance in terms of operational frequency, power dissipation and other soft errors. A PDN is 
     modeled and analog and digital IP blocks are considered in various topologies to create the potential
@@ -74,15 +84,21 @@ toc: true
     
 5. ### Low-Noise Power Delivery Network Design using Power Transmission Line for mixed signal testing.
    Advisor : Dr. Mohammad S.Hashmi
+   <br>
+   Team Size : 2
+   <br>
    In the mixed signal testing scenario, the performance of a system depends on the noise tolerance and
     the communication speed between various analog and digital circuits which share a Power Delivery network(PDN). 
     Modeling of a PDN to reduce noise and simulations done on ADS Tool.
     
 6. ### Low power Network-on-chip for high performance SoC design.
    Dr. Sujay Deb
+   <br>
+   Team Size : 5
+   <br>
    A low power router technique is designed. The technique used is the CPAT(Crossbar Partial Activation Technique)
     
-7. ### Smart street lighting system based on Internet of Things.
+7. ### Smart street lighting system based on Internet of Things. (Course Project)
    Advisor : Dr. Srikanth Saripalli
    The project is demonstrated using LEDs , LDR’s , motion sensors, temperature sensors and and control function
     is handled by the Intel Galileo Board.
