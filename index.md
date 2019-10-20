@@ -5,10 +5,6 @@ author: PS
 toc: true
 ---
 
-I am a PhD candidate in the [Department of Computational and Data Sciences (CDS)](http://www.cds.iisc.ac.in/) at the [Indian Institute of Science, Bangalore](https://www.iisc.ac.in/) with a research focus on Machine Learning and related areas. I am supervised by [Prof. Partha Pratim Talukdar](http://talukdar.net/), and have been affiliated with the [Machine And Language Learning Lab (MALL Lab)](http://malllabiisc.github.io/) since August 2018.
-
-Prior to graduate school, I received my Bachelor of Engineering (BE Hons.) in Computer Science from [Birla Institute of Technology and Science, Pilani (BITS Pilani)](http://www.bits-pilani.ac.in/) in 2015.
-
 
 ## Education
 - Masters of Technology - [Indraprastha Institute of Information Technology, New Delhi, India](https://www.iiitd.ac.in/) (2015-2017)
@@ -49,11 +45,36 @@ Prior to graduate school, I received my Bachelor of Engineering (BE Hons.) in Co
     - A low power router technique is designed. The technique used is the CPAT(Crossbar Partial Activation Technique)
 ### - Smart street lighting system based on Internet of Things.
     - The project is demonstrated using LEDs , LDR’s , motion sensors, temperature sensors and and control function is handled by the Intel Galileo Board.
+
+## Paper presentations
+- Presented a paper entitled “Frequency domain analysis of on-chip power distribution network” at VDAT Symposium 2016 at IIT Guwahati
     
 ## Publications
 - Contemporary Solutions to Refine Validation Environments for Improved Correlation with Product Ecosystems, Design Con 2020. (Under Process)
 - Batra, S., Singh, P., Kaushik, S. and Hashmi, M.S., 2016, May. Frequency domain analysis of on-chip power distribution network. In 2016 20th International Symposium on VLSI Design and Test (VDAT) (pp. 1-6). IEEE.
 
+## Trainings 
+### - Trainee [AAI-Airport Authority of India, New Delhi, India](https://www.aai.aero/)
+      - Training at air traffic services under the communication and navigation surveillance.
+### - Trainee [ITTM, New Delhi, India](http://mtnldelhi.in/ittm/)
+      - GSM(Base station subsystem and Network Switching Subsystem)
+## Workshops & Seminars
+ - Attended One-Day IEEE EPS Workshop on Power Integrity at Capitol Hotel, Bangalore, 25th July 2019
+ - Attended MATLAB-Simulink Training at MathWorks, Bangalore, India on 3 & 4 Jan 2019.
+
+## AWARDS & ACHIEVEMENTS 
+- Received Recognition from IP stakeholder for excellent collaborative work for Signal integrity validation at Intel, July,2019
+- Received Division recognition award for enabling first platform design methodology to meet customer’s board integration requirements at Intel, June, 2019
+- Received the Recognition Award for contribution in the 1st quarter FY 2018 at Microsemi, March 2018
+- Received a certificate of participation in Texas Instruments Analog Design Con- test held at IIIT Delhi, Oct 2015.
+
+## EXTRACURRICULAR
+- Served as a member of Corporate Social Responsibility committee at Microsemi for the Career Sathi program for education and moral upliftment in economically backward and orphan children, Dec 2017-Nov 2018
+- Worked as an associate member of creative team at TAARANGANA14, the first ever annual cultural festival of IGDTUW, Jan 2014 
+- Participated in the 21st IEEE Delhi Section Quarterly Meet held at PEC University of Technology, Chandigarh, June, 2013
+- Worked as an associate member of creative team and head coordinator of ELECTROTRADE event in IMPULSE13, the annual technical festival of IGIT, Jan 2013
+- Participated in the IEEE Delhi Section Student Congress 2013 organized by IEEEJMI at Jamia Milia Islamia. 
+- Worked as an associate member of offline team in ETERNITY12, IEEE women in engineering chapter, Jan 2012
 ## CV
 
 [PDF]({{site.url}}/download/CV.pdf)
