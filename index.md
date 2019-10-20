@@ -12,7 +12,7 @@ toc: true
 
 ## Professional Experience
 
-- ### Analog Engineer [Intel Technology India Pvt Ltd, Banglore, India.](https://www.intel.com/) (Dec, 2018-Present)
+1. ### Analog Engineer [Intel Technology India Pvt Ltd, Banglore, India.](https://www.intel.com/) (Dec, 2018-Present)
    - Worked on Hspice and S parameter based signal integrity simulations and analysis on PCIE Gen 4, 
     LPDDR4 interfaces in Communication and Devices Group.
     
@@ -27,7 +27,7 @@ toc: true
     
    - Channel simulations with IBIS-AMI models and giving channel routing recommendations on the basis
     of topology, equalization techniques etc.
-### - Associate Engineer-2 [Microsemi India Pvt Ltd, Hyderabad, India.](https://www.microsemi.com/) (July, 2017-Dec, 2018)
+2. ### Associate Engineer-2 [Microsemi India Pvt Ltd, Hyderabad, India.](https://www.microsemi.com/) (July, 2017-Dec, 2018)
    - Worked on I/O selection, simulation and validation of high speed I/O, package and board characteristics
     in SPICE and IBIS environment.
     
@@ -41,42 +41,42 @@ toc: true
    - Worked on understanding and verification of DDRPHY and SGMIIPHY system blocks and clocking environment.
     
    - Timing and power Analysis of buffer paths on post layout extracted netlist for DDRPHY and SGMII IP blocks.
-### - Intern [Microsemi India Pvt Ltd, Hyderabad, India.](https://www.microsemi.com/) (Jan, 2017- July, 2017)
+3. ### Intern [Microsemi India Pvt Ltd, Hyderabad, India.](https://www.microsemi.com/) (Jan, 2017- July, 2017)
    - Worked in SoC group on custom I/O design and architecture, characterization of Input/Output Buffers and 
     interfacing of high speed standards.
     
    - Worked on validation of High speed and Complex IO’s: GPIO,HSIO,LVDS,MIPI.
     
-### - Teaching Assistant [Indraprastha Institute of Information Technology, New Delhi, India](https://www.iiitd.ac.in/) (Aug, 2015- Dec,2017)
+4. ### Teaching Assistant [Indraprastha Institute of Information Technology, New Delhi, India](https://www.iiitd.ac.in/) (Aug, 2015- Dec,2017)
    - Maths(Linear algebra) (1st and 3rd semester).  
    - Basic Electronics (2nd semester).
     
 ## Academic Projects
-### - Analysis of Power Distribution Networks in VLSI Circuits
+1. ### Analysis of Power Distribution Networks in VLSI Circuits
    Active analog and digital techniques for modeling decap in PDN
     
-### - Analysis of the Robustness of a Power Distribution Networks
+2. ### Analysis of the Robustness of a Power Distribution Networks
    Analysis of timing delay due to supply voltage variations.
     
-### - Modeling of an active decap circuit for a Power Distribution Network
+3. ### Modeling of an active decap circuit for a Power Distribution Network
    A decap circuit is proposed and replaced by the active capacitor in the circuit to reduce the voltage
     drop in a Power Distribution Network.
     
-### - Frequency Domain analysis of on-chip Power distribution networks
+4. ### Frequency Domain analysis of on-chip Power distribution networks
    The variations in Power Supply leads to noise in a System-on-chip (SoC) which has adverse effects on 
     its performance in terms of operational frequency, power dissipation and other soft errors. A PDN is 
     modeled and analog and digital IP blocks are considered in various topologies to create the potential
     effect of SSN.
     
-### - Low-Noise Power Delivery Network Design using Power Transmission Line for mixed signal testing.
+5. ### Low-Noise Power Delivery Network Design using Power Transmission Line for mixed signal testing.
    In the mixed signal testing scenario, the performance of a system depends on the noise tolerance and
     the communication speed between various analog and digital circuits which share a Power Delivery network(PDN). 
     Modeling of a PDN to reduce noise and simulations done on ADS Tool.
     
-### - Low power Network-on-chip for high performance SoC design.
+6. ### Low power Network-on-chip for high performance SoC design.
    A low power router technique is designed. The technique used is the CPAT(Crossbar Partial Activation Technique)
     
-### - Smart street lighting system based on Internet of Things.
+7. ### Smart street lighting system based on Internet of Things.
    The project is demonstrated using LEDs , LDR’s , motion sensors, temperature sensors and and control function
     is handled by the Intel Galileo Board.
 
@@ -91,10 +91,10 @@ Design Con 2020. (Under Process)
 distribution network. In 2016 20th International Symposium on VLSI Design and Test (VDAT) (pp. 1-6). IEEE.
 
 ## Trainings 
-### - Trainee [AAI-Airport Authority of India, New Delhi, India](https://www.aai.aero/)
+1. ### Trainee [AAI-Airport Authority of India, New Delhi, India](https://www.aai.aero/)
    Training at air traffic services under the communication and navigation surveillance.
       
-### - Trainee [ITTM, New Delhi, India](http://mtnldelhi.in/ittm/)
+2. ### Trainee [ITTM, New Delhi, India](http://mtnldelhi.in/ittm/)
    GSM(Base station subsystem and Network Switching Subsystem)
       
 ## Workshops & Seminars
