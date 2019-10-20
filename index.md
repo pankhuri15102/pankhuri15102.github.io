@@ -94,12 +94,15 @@ toc: true
 6. ### Low power Network-on-chip for high performance SoC design.
    Dr. Sujay Deb
    <br>
-   Team Size : 5
+   Team Size : 2
    <br>
    A low power router technique is designed. The technique used is the CPAT(Crossbar Partial Activation Technique)
     
 7. ### Smart street lighting system based on Internet of Things. (Course Project)
    Advisor : Dr. Srikanth Saripalli
+   <br>
+   Team Size: 5
+   <br>
    The project is demonstrated using LEDs , LDR’s , motion sensors, temperature sensors and and control function
     is handled by the Intel Galileo Board.
 
