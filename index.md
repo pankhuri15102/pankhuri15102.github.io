@@ -52,36 +52,43 @@ toc: true
    - Basic Electronics (2nd semester).
     
 ## Academic Projects
-1. ### Analysis of Power Distribution Networks in VLSI Circuits
+1. ### Mtech Thesis: Analysis of Power Distribution Networks in VLSI Circuits
+   Advisor: Dr. Mohammad S. Hashmi
    Active analog and digital techniques for modeling decap in PDN
     
 2. ### Analysis of the Robustness of a Power Distribution Networks
+   Advisor : Dr. Sneh Saurabh
    Analysis of timing delay due to supply voltage variations.
     
 3. ### Modeling of an active decap circuit for a Power Distribution Network
+   Advisor : Dr. Mohammad S.Hashmi
    A decap circuit is proposed and replaced by the active capacitor in the circuit to reduce the voltage
     drop in a Power Distribution Network.
     
-4. ### Frequency Domain analysis of on-chip Power distribution networks
+4. ### Frequency Domain analysis of on-chip Power distribution networks.
+   Advisor : Dr. Mohammad S.Hashmi
    The variations in Power Supply leads to noise in a System-on-chip (SoC) which has adverse effects on 
     its performance in terms of operational frequency, power dissipation and other soft errors. A PDN is 
     modeled and analog and digital IP blocks are considered in various topologies to create the potential
     effect of SSN.
     
 5. ### Low-Noise Power Delivery Network Design using Power Transmission Line for mixed signal testing.
+   Advisor : Dr. Mohammad S.Hashmi
    In the mixed signal testing scenario, the performance of a system depends on the noise tolerance and
     the communication speed between various analog and digital circuits which share a Power Delivery network(PDN). 
     Modeling of a PDN to reduce noise and simulations done on ADS Tool.
     
 6. ### Low power Network-on-chip for high performance SoC design.
+   Dr. Sujay Deb
    A low power router technique is designed. The technique used is the CPAT(Crossbar Partial Activation Technique)
     
 7. ### Smart street lighting system based on Internet of Things.
+   Advisor : Dr. Srikanth Saripalli
    The project is demonstrated using LEDs , LDR’s , motion sensors, temperature sensors and and control function
     is handled by the Intel Galileo Board.
 
 ## Paper presentations
-1. Presented a paper entitled “Frequency domain analysis of on-chip power distribution network” at VDAT Symposium
+- Presented a paper entitled “Frequency domain analysis of on-chip power distribution network” at VDAT Symposium
 2016 at IIT Guwahati
     
 ## Publications
