@@ -11,7 +11,8 @@ toc: true
 - Bachelors of Technology - [Indira Gandhi Delhi Technical University for Women, New Delhi, India](https://www.igdtuw.ac.in//) (2011-2015)
 
 ## Professional Experience
-### - Analog Engineer [Intel Technology India Pvt Ltd, Banglore, India.](https://www.intel.com/) (Dec, 2018-Present)
+
+- ### Analog Engineer [Intel Technology India Pvt Ltd, Banglore, India.](https://www.intel.com/) (Dec, 2018-Present)
    - Worked on Hspice and S parameter based signal integrity simulations and analysis on PCIE Gen 4, 
     LPDDR4 interfaces in Communication and Devices Group.
     
