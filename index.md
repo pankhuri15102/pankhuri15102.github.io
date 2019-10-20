@@ -13,43 +13,43 @@ toc: true
 ## Professional Experience
 
 1. ### Analog Engineer [Intel Technology India Pvt Ltd, Banglore, India.](https://www.intel.com/) (Dec, 2018-Present)
-   - Worked on Hspice and S parameter based signal integrity simulations and analysis on PCIE Gen 4, 
+  - Worked on Hspice and S parameter based signal integrity simulations and analysis on PCIE Gen 4, 
     LPDDR4 interfaces in Communication and Devices Group.
     
-   - Power Integrity Analysis for PDN optimization for meeting target impedance requirement and noise
+  - Power Integrity Analysis for PDN optimization for meeting target impedance requirement and noise
     spec for high speed interfaces like LPDDR4X, GDDR6 for a graphics product.
     
-   - Co-Simulation for a complete system including PDN and signal path to extract system performance 
+  - Co-Simulation for a complete system including PDN and signal path to extract system performance 
     parameters such as eye jitter.
     
-   - Carried out successful analysis with the third party IP’s to enable SIPI solutions for an Intel 
+  - Carried out successful analysis with the third party IP’s to enable SIPI solutions for an Intel 
     product.
     
-   - Channel simulations with IBIS-AMI models and giving channel routing recommendations on the basis
+  - Channel simulations with IBIS-AMI models and giving channel routing recommendations on the basis
     of topology, equalization techniques etc.
 2. ### Associate Engineer-2 [Microsemi India Pvt Ltd, Hyderabad, India.](https://www.microsemi.com/) (July, 2017-Dec, 2018)
-   - Worked on I/O selection, simulation and validation of high speed I/O, package and board characteristics
+  - Worked on I/O selection, simulation and validation of high speed I/O, package and board characteristics
     in SPICE and IBIS environment.
     
-   - Simulation of a complete IO channel(Tx and Rx) to extract system performance parameters such as rise/fall
+  - Simulation of a complete IO channel(Tx and Rx) to extract system performance parameters such as rise/fall
     times, rise/fall delays, jitter etc.
     
-   - Signal integrity analysis of MIPI and LVDS standard in spice environment
+  - Signal integrity analysis of MIPI and LVDS standard in spice environment
     
-   - Worked on implementing special IO interfaces CAN,SPI,I2C,USB,MMUART,SD etc.
+  - Worked on implementing special IO interfaces CAN,SPI,I2C,USB,MMUART,SD etc.
     
-   - Worked on understanding and verification of DDRPHY and SGMIIPHY system blocks and clocking environment.
+  - Worked on understanding and verification of DDRPHY and SGMIIPHY system blocks and clocking environment.
     
-   - Timing and power Analysis of buffer paths on post layout extracted netlist for DDRPHY and SGMII IP blocks.
+  - Timing and power Analysis of buffer paths on post layout extracted netlist for DDRPHY and SGMII IP blocks.
 3. ### Intern [Microsemi India Pvt Ltd, Hyderabad, India.](https://www.microsemi.com/) (Jan, 2017- July, 2017)
-   - Worked in SoC group on custom I/O design and architecture, characterization of Input/Output Buffers and 
+  - Worked in SoC group on custom I/O design and architecture, characterization of Input/Output Buffers and 
     interfacing of high speed standards.
     
-   - Worked on validation of High speed and Complex IO’s: GPIO,HSIO,LVDS,MIPI.
+  - Worked on validation of High speed and Complex IO’s: GPIO,HSIO,LVDS,MIPI.
     
 4. ### Teaching Assistant [Indraprastha Institute of Information Technology, New Delhi, India](https://www.iiitd.ac.in/) (Aug, 2015- Dec,2017)
-   - Maths(Linear algebra) (1st and 3rd semester).  
-   - Basic Electronics (2nd semester).
+  - Maths(Linear algebra) (1st and 3rd semester).  
+  - Basic Electronics (2nd semester).
     
 ## Academic Projects
 1. ### Mtech Thesis: Analysis of Power Distribution Networks in VLSI Circuits
