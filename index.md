@@ -134,7 +134,7 @@ distribution network. In 2016 20th International Symposium on VLSI Design and Te
  - Attended One-Day IEEE EPS Workshop on Power Integrity at Capitol Hotel, Bangalore, 25th July 2019
  - Attended MATLAB-Simulink Training at MathWorks, Bangalore, India on 3 & 4 Jan 2019.
 
-## AWARDS & ACHIEVEMENTS 
+## Awards & Achievements 
 - Received Recognition from IP stakeholder for excellent collaborative work for Signal integrity validation at 
 Intel, July,2019
 
