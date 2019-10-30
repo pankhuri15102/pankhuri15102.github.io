@@ -13,11 +13,10 @@ toc: true
 ## Professional Experience
 
 - Analog Engineer [Intel Technology India Pvt Ltd, Banglore, India.](https://www.intel.com/) (Dec, 2018-Present)
-  - Worked on Hspice and S parameter based signal integrity simulations and analysis on PCIE Gen 4, 
-    LPDDR4 interfaces in Communication and Devices Group.
+  - Worked on Hspice and S parameter based signal integrity simulations and analysis on PCIE Gen 4, LPDDR4 interfaces in Communication and Devices Group.
     
   - Power Integrity Analysis for PDN optimization for meeting target impedance requirement and noise
-    spec for high speed interfaces like LPDDR4X, GDDR6 for a graphics product.
+  spec for high speed interfaces like LPDDR4X, GDDR6 for a graphics product.
     
   - Co-Simulation for a complete system including PDN and signal path to extract system performance 
     parameters such as eye jitter.
