@@ -15,23 +15,17 @@ toc: true
 - Analog Engineer [Intel Technology India Pvt Ltd, Banglore, India.](https://www.intel.com/) (Dec, 2018-Present)
   - Worked on Hspice and S parameter based signal integrity simulations and analysis on PCIE Gen 4, LPDDR4 interfaces in Communication and Devices Group.
     
-  - Power Integrity Analysis for PDN optimization for meeting target impedance requirement and noise
-  spec for high speed interfaces like LPDDR4X, GDDR6 for a graphics product.
+  - Power Integrity Analysis for PDN optimization for meeting target impedance requirement and noise spec for high speed interfaces like LPDDR4X, GDDR6 for a graphics product.
     
-  - Co-Simulation for a complete system including PDN and signal path to extract system performance 
-    parameters such as eye jitter.
+  - Co-Simulation for a complete system including PDN and signal path to extract system performance parameters such as eye jitter.
     
-  - Carried out successful analysis with the third party IP’s to enable SIPI solutions for an Intel 
-    product.
+  - Carried out successful analysis with the third party IP’s to enable SIPI solutions for an Intel product.
     
-  - Channel simulations with IBIS-AMI models and giving channel routing recommendations on the basis
-    of topology, equalization techniques etc.
+  - Channel simulations with IBIS-AMI models and giving channel routing recommendations on the basis of topology, equalization techniques etc.
 - Associate Engineer-2 [Microsemi India Pvt Ltd, Hyderabad, India.](https://www.microsemi.com/) (July, 2017-Dec, 2018)
-  - Worked on I/O selection, simulation and validation of high speed I/O, package and board characteristics
-    in SPICE and IBIS environment.
+  - Worked on I/O selection, simulation and validation of high speed I/O, package and board characteristics in SPICE and IBIS environment.
     
-  - Simulation of a complete IO channel(Tx and Rx) to extract system performance parameters such as rise/fall
-    times, rise/fall delays, jitter etc.
+  - Simulation of a complete IO channel(Tx and Rx) to extract system performance parameters such as rise/fall times, rise/fall delays, jitter etc.
     
   - Signal integrity analysis of MIPI and LVDS standard in spice environment
     
@@ -73,8 +67,7 @@ toc: true
      Team Size : 1
      <br>
      <br>
-     A decap circuit is proposed and replaced by the active capacitor in the circuit to reduce the voltage
-     drop in a Power Distribution Network.
+     A decap circuit is proposed and replaced by the active capacitor in the circuit to reduce the voltage drop in a Power Distribution Network.
     
 - Frequency Domain analysis of on-chip Power distribution networks. (Course Project)
      Advisor : Dr. Mohammad S.Hashmi
@@ -82,10 +75,7 @@ toc: true
      Team Size : 2
      <br>
      <br>
-     The variations in Power Supply leads to noise in a System-on-chip (SoC) which has adverse effects on 
-     its performance in terms of operational frequency, power dissipation and other soft errors. A PDN is 
-     modeled and analog and digital IP blocks are considered in various topologies to create the potential
-     effect of SSN.
+     The variations in Power Supply leads to noise in a System-on-chip (SoC) which has adverse effects on its performance in terms of operational frequency, power dissipation and other soft errors. A PDN is modeled and analog and digital IP blocks are considered in various topologies to create the potential effect of SSN.
     
 - Low-Noise Power Delivery Network Design using Power Transmission Line for mixed signal testing.
      Advisor : Dr. Mohammad S.Hashmi
@@ -93,9 +83,7 @@ toc: true
      Team Size : 2
      <br>
      <br>
-     In the mixed signal testing scenario, the performance of a system depends on the noise tolerance and
-     the communication speed between various analog and digital circuits which share a Power Delivery network(PDN). 
-     Modeling of a PDN to reduce noise and simulations done on ADS Tool.
+     In the mixed signal testing scenario, the performance of a system depends on the noise tolerance and the communication speed between various analog and digital circuits which share a Power Delivery network(PDN). Modeling of a PDN to reduce noise and simulations done on ADS Tool.
     
 - Low power Network-on-chip for high performance SoC design.
      Dr. Sujay Deb
@@ -111,8 +99,7 @@ toc: true
      Team Size: 5
      <br>
      <br>
-     The project is demonstrated using LEDs , LDR’s , motion sensors, temperature sensors and and control function
-     is handled by the Intel Galileo Board.
+     The project is demonstrated using LEDs , LDR’s , motion sensors, temperature sensors and and control function is handled by the Intel Galileo Board.
 
 ## Paper presentations
   - Presented a paper entitled “Frequency domain analysis of on-chip power distribution network” at VDAT Symposium
