@@ -12,53 +12,55 @@ toc: true
 
 ## Professional Experience
 
-  - Analog Engineer [Intel Technology India Pvt Ltd, Banglore, India.](https://www.intel.com/) (Dec, 2018-Present)
-    - Worked on Hspice and S parameter based signal integrity simulations and analysis on PCIE Gen 4, 
-      LPDDR4 interfaces in Communication and Devices Group.
+- Analog Engineer [Intel Technology India Pvt Ltd, Banglore, India.](https://www.intel.com/) (Dec, 2018-Present)
+  - Worked on Hspice and S parameter based signal integrity simulations and analysis on PCIE Gen 4, 
+    LPDDR4 interfaces in Communication and Devices Group.
     
-    - Power Integrity Analysis for PDN optimization for meeting target impedance requirement and noise
-      spec for high speed interfaces like LPDDR4X, GDDR6 for a graphics product.
+  - Power Integrity Analysis for PDN optimization for meeting target impedance requirement and noise
+    spec for high speed interfaces like LPDDR4X, GDDR6 for a graphics product.
     
-    - Co-Simulation for a complete system including PDN and signal path to extract system performance 
-      parameters such as eye jitter.
+  - Co-Simulation for a complete system including PDN and signal path to extract system performance 
+    parameters such as eye jitter.
     
-    - Carried out successful analysis with the third party IP’s to enable SIPI solutions for an Intel 
-      product.
+  - Carried out successful analysis with the third party IP’s to enable SIPI solutions for an Intel 
+    product.
     
-    - Channel simulations with IBIS-AMI models and giving channel routing recommendations on the basis
-      of topology, equalization techniques etc.
-  - Associate Engineer-2 [Microsemi India Pvt Ltd, Hyderabad, India.](https://www.microsemi.com/) (July, 2017-Dec, 2018)
-    - Worked on I/O selection, simulation and validation of high speed I/O, package and board characteristics
-      in SPICE and IBIS environment.
+  - Channel simulations with IBIS-AMI models and giving channel routing recommendations on the basis
+    of topology, equalization techniques etc.
+- Associate Engineer-2 [Microsemi India Pvt Ltd, Hyderabad, India.](https://www.microsemi.com/) (July, 2017-Dec, 2018)
+  - Worked on I/O selection, simulation and validation of high speed I/O, package and board characteristics
+    in SPICE and IBIS environment.
     
-    - Simulation of a complete IO channel(Tx and Rx) to extract system performance parameters such as rise/fall
-      times, rise/fall delays, jitter etc.
+  - Simulation of a complete IO channel(Tx and Rx) to extract system performance parameters such as rise/fall
+    times, rise/fall delays, jitter etc.
     
-    - Signal integrity analysis of MIPI and LVDS standard in spice environment
+  - Signal integrity analysis of MIPI and LVDS standard in spice environment
     
-    - Worked on implementing special IO interfaces CAN,SPI,I2C,USB,MMUART,SD etc.
+  - Worked on implementing special IO interfaces CAN,SPI,I2C,USB,MMUART,SD etc.
     
-    - Worked on understanding and verification of DDRPHY and SGMIIPHY system blocks and clocking environment.
+  - Worked on understanding and verification of DDRPHY and SGMIIPHY system blocks and clocking environment.
     
-    - Timing and power Analysis of buffer paths on post layout extracted netlist for DDRPHY and SGMII IP blocks.
-  - Intern [Microsemi India Pvt Ltd, Hyderabad, India.](https://www.microsemi.com/) (Jan, 2017- July, 2017)
-    - Worked in SoC group on custom I/O design and architecture, characterization of Input/Output Buffers and 
-      interfacing of high speed standards.
+  - Timing and power Analysis of buffer paths on post layout extracted netlist for DDRPHY and SGMII IP blocks.
+- Intern [Microsemi India Pvt Ltd, Hyderabad, India.](https://www.microsemi.com/) (Jan, 2017- July, 2017)
+  - Worked in SoC group on custom I/O design and architecture, characterization of Input/Output Buffers and 
+    interfacing of high speed standards.
     
-    - Worked on validation of High speed and Complex IO’s: GPIO,HSIO,LVDS,MIPI.
+  - Worked on validation of High speed and Complex IO’s: GPIO,HSIO,LVDS,MIPI.
     
-  - Teaching Assistant [Indraprastha Institute of Information Technology, New Delhi, India](https://www.iiitd.ac.in/) (Aug, 2015-   Dec,2017)
-    - Maths(Linear algebra) (1st and 3rd semester).  
-    - Basic Electronics (2nd semester).
+- Teaching Assistant [Indraprastha Institute of Information Technology, New Delhi, India](https://www.iiitd.ac.in/) (Aug, 2015-   Dec,2017)
+  - Maths(Linear algebra) (1st and 3rd semester).  
+  - Basic Electronics (2nd semester).
     
 ## Academic Projects
-  - Mtech Thesis: Analysis of Power Distribution Networks in VLSI Circuits
+- Mtech Thesis: Analysis of Power Distribution Networks in VLSI Circuits
+     <br>
      Advisor: Dr. Mohammad S. Hashmi
      <br>
      <br>
      Active analog and digital techniques for modeling decap in PDN
     
-  - Analysis of the Robustness of a Power Distribution Networks. (Independent Project)
+- Analysis of the Robustness of a Power Distribution Networks. (Independent Project)
+     <br>
      Advisor : Dr. Sneh Saurabh
      <br>
      Team Size : 1
@@ -66,7 +68,7 @@ toc: true
      <br>
      Analysis of timing delay due to supply voltage variations.
     
-  - Modeling of an active decap circuit for a Power Distribution Network. (Independent Project)
+- Modeling of an active decap circuit for a Power Distribution Network. (Independent Project)
      Advisor : Dr. Mohammad S.Hashmi
      <br>
      Team Size : 1
@@ -75,7 +77,7 @@ toc: true
      A decap circuit is proposed and replaced by the active capacitor in the circuit to reduce the voltage
      drop in a Power Distribution Network.
     
-  - Frequency Domain analysis of on-chip Power distribution networks. (Course Project)
+- Frequency Domain analysis of on-chip Power distribution networks. (Course Project)
      Advisor : Dr. Mohammad S.Hashmi
      <br>
      Team Size : 2
@@ -86,7 +88,7 @@ toc: true
      modeled and analog and digital IP blocks are considered in various topologies to create the potential
      effect of SSN.
     
-  - Low-Noise Power Delivery Network Design using Power Transmission Line for mixed signal testing.
+- Low-Noise Power Delivery Network Design using Power Transmission Line for mixed signal testing.
      Advisor : Dr. Mohammad S.Hashmi
      <br>
      Team Size : 2
@@ -96,7 +98,7 @@ toc: true
      the communication speed between various analog and digital circuits which share a Power Delivery network(PDN). 
      Modeling of a PDN to reduce noise and simulations done on ADS Tool.
     
-  - Low power Network-on-chip for high performance SoC design.
+- Low power Network-on-chip for high performance SoC design.
      Dr. Sujay Deb
      <br>
      Team Size : 2
@@ -104,7 +106,7 @@ toc: true
      <br>
      A low power router technique is designed. The technique used is the CPAT(Crossbar Partial Activation Technique)
     
-  - Smart street lighting system based on Internet of Things. (Course Project)
+- Smart street lighting system based on Internet of Things. (Course Project)
      Advisor : Dr. Srikanth Saripalli
      <br>
      Team Size: 5
@@ -124,41 +126,41 @@ Design Con 2020. (Under Process)
 distribution network. In 2016 20th International Symposium on VLSI Design and Test (VDAT) (pp. 1-6). IEEE.](https://ieeexplore.ieee.org/document/8064853)
 
 ## Trainings 
-  - Trainee [AAI-Airport Authority of India, New Delhi, India](https://www.aai.aero/)
-      Training at air traffic services under the communication and navigation surveillance.
+- Trainee [AAI-Airport Authority of India, New Delhi, India](https://www.aai.aero/)
+    Training at air traffic services under the communication and navigation surveillance.
       
-  - Trainee [ITTM, New Delhi, India](http://mtnldelhi.in/ittm/)
-      GSM(Base station subsystem and Network Switching Subsystem)
+- Trainee [ITTM, New Delhi, India](http://mtnldelhi.in/ittm/)
+    GSM(Base station subsystem and Network Switching Subsystem)
       
 ## Workshops & Seminars
-  - Attended One-Day IEEE EPS Workshop on Power Integrity at Capitol Hotel, Bangalore, 25th July 2019
-  - Attended MATLAB-Simulink Training at MathWorks, Bangalore, India on 3 & 4 Jan 2019.
+- Attended One-Day IEEE EPS Workshop on Power Integrity at Capitol Hotel, Bangalore, 25th July 2019
+- Attended MATLAB-Simulink Training at MathWorks, Bangalore, India on 3 & 4 Jan 2019.
 
 ## Awards & Achievements 
-  - Received Recognition from IP stakeholder for excellent collaborative work for Signal integrity validation at 
+- Received Recognition from IP stakeholder for excellent collaborative work for Signal integrity validation at 
 Intel, July,2019
 
-  - Received Division recognition award for enabling first platform design methodology to meet customer’s board 
+- Received Division recognition award for enabling first platform design methodology to meet customer’s board 
 integration requirements at Intel, June, 2019
 
-  - Received the Recognition Award for contribution in the 1st quarter FY 2018 at Microsemi, March 2018
+- Received the Recognition Award for contribution in the 1st quarter FY 2018 at Microsemi, March 2018
 
-  - Received a certificate of participation in Texas Instruments Analog Design Con- test held at IIIT Delhi, Oct 2015.
+- Received a certificate of participation in Texas Instruments Analog Design Con- test held at IIIT Delhi, Oct 2015.
 
 ## Extracurricular
-  - Served as a member of Corporate Social Responsibility committee at Microsemi for the Career Sathi program for 
+- Served as a member of Corporate Social Responsibility committee at Microsemi for the Career Sathi program for 
 education and moral upliftment in economically backward and orphan children, Dec 2017-Nov 2018
 
-  - Worked as an associate member of creative team at TAARANGANA14, the first ever annual cultural festival of IGDTUW, Jan 2014 
+- Worked as an associate member of creative team at TAARANGANA14, the first ever annual cultural festival of IGDTUW, Jan 2014 
 
-  - Participated in the 21st IEEE Delhi Section Quarterly Meet held at PEC University of Technology, Chandigarh, June, 2013
+- Participated in the 21st IEEE Delhi Section Quarterly Meet held at PEC University of Technology, Chandigarh, June, 2013
 
-  - Worked as an associate member of creative team and head coordinator of ELECTROTRADE event in IMPULSE13, the 
+- Worked as an associate member of creative team and head coordinator of ELECTROTRADE event in IMPULSE13, the 
 annual technical festival of IGIT, Jan 2013
 
-  - Participated in the IEEE Delhi Section Student Congress 2013 organized by IEEEJMI at Jamia Milia Islamia. 
+- Participated in the IEEE Delhi Section Student Congress 2013 organized by IEEEJMI at Jamia Milia Islamia. 
 
-  - Worked as an associate member of offline team in ETERNITY12, IEEE women in engineering chapter, Jan 2012
+- Worked as an associate member of offline team in ETERNITY12, IEEE women in engineering chapter, Jan 2012
 ## CV
 
 [PDF]({{site.url}}/download/CV.pdf)
